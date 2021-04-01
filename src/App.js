@@ -8,6 +8,7 @@ export default function App() {
   const printDesc = () => {
     setOutput(+input1  +input2);
   };
+  
   return (
     <>
       <tr>
